@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "jb1WhF52+yOA0eyy8JUgdcVUwmUSPGt18OxQq1dx6sqCwKh+S6z6z5LamIhk4/D9zgkkMxiAG+/TJitn6XQdnA==",
+  "success": true,
+  "projectFilePath": "/workspaces/dotnet/.devcontainer/src/src.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}
